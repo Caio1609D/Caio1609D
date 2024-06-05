@@ -1,5 +1,5 @@
 # Bom Dia!
-Sou Caio, tenho 16 anos, estudo Desenvolvimento de Sistemas. 
+Sou Caio, tenho 16 anos, estudo Desenvolvimento de Sistemas. \
 Ultimamente tenho trabalhado muito com Python, HTML, CSS e JavaScript e amo desenvolvimento Back End
 
 * Confira meu [portfólio](link_do_porfolio)
